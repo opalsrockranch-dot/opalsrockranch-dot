@@ -1,16 +1,18 @@
-## Hi there 👋
+# Taylor Ekstrom
 
-<!--
-**opalsrockranch-dot/opalsrockranch-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Evaluation & Red-Team Specialist**
 
-Here are some ideas to get you started:
+I evaluate conversational AI systems — failure taxonomy, adversarial
+testing, response rating, and longitudinal behavior audits. My work
+includes a named taxonomy of AI failure modes, blinded control tests,
+and defect reports filed with AI developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Response evaluation and rubric design
+- Red-team test design (multi-turn, adversarial)
+- Failure taxonomy and defect reporting
+- Longitudinal audit method and documentation
+- Prompt design and analysis
+
+## Contact
+Taylorekstrom@yahoo.com
